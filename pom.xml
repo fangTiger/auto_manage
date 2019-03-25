@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.xl</groupId>
+    <artifactId>auto_manage</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>auto_data_process</module>
+        <module>irtv_data_process</module>
+        <module>tf_data_process</module>
+        <module>weibo_data_process</module>
+        <module>web_data_process</module>
+        <module>log_data_process</module>
+        <module>weixin_data_process</module>
+        <module>app_data_process</module>
+        <module>press_data_process</module>
+        <module>bbs_data_process</module>
+        <module>paper_data_process</module>
+        <module>pdf_data_process</module>
+        <module>data_process_api</module>
+        <module>storm_data_common</module>
+    </modules>
+
+
+</project>

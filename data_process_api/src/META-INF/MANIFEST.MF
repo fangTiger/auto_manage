@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: commons-codec-1.9.jar httpcore-4.4.6.jar spring-context-su
+ pport-4.2.6.RELEASE.jar junit-4.8.2.jar spring-aspects-4.0.9.RELEASE.
+ jar spring-beans-4.2.6.RELEASE.jar httpclient-4.5.3.jar spring-contex
+ t-4.2.6.RELEASE.jar spring-aop-4.2.6.RELEASE.jar aspectjweaver-1.8.4.
+ jar pdfbox-tools-2.0.8.jar commons-collections-3.2.1.jar spring-web-4
+ .2.6.RELEASE.jar commons-lang-2.6.jar fontbox-2.0.8.jar sanselan-0.97
+ -incubator.jar realobjects-pdfbaker-pdf-1.0.0.jar spring-webmvc-4.2.6
+ .RELEASE.jar pdfbox-2.0.8.jar spring-expression-4.2.6.RELEASE.jar jso
+ n-lib-2.4-jdk15.jar jempbox-1.8.12.jar spring-core-4.2.6.RELEASE.jar 
+ aopalliance-1.0.jar commons-net-3.6.jar fastjson-1.2.7.jar commons-lo
+ gging-1.2.jar pdfbox-debugger-2.0.8.jar spring-tx-4.2.6.RELEASE.jar c
+ ommons-beanutils-1.8.3.jar ezmorph-1.0.6.jar
+Main-Class: com.xl.manage.server.Test
+

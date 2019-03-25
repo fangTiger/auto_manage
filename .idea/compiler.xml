@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="app_data_process" />
+        <module name="auto_data_process" />
+        <module name="bbs_data_process" />
+        <module name="data_process_api" />
+        <module name="irtv_data_process" />
+        <module name="log_data_process" />
+        <module name="paper_data_process" />
+        <module name="pdf_data_process" />
+        <module name="press_data_process" />
+        <module name="storm_data_common" />
+        <module name="tf_data_process" />
+        <module name="web_data_process" />
+        <module name="weibo_data_process" />
+        <module name="weixin_data_process" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app_data_process" target="1.8" />
+      <module name="auto_data_process" target="1.8" />
+      <module name="auto_manage" target="1.8" />
+      <module name="bbs_data_process" target="1.8" />
+      <module name="data_process_api" target="1.8" />
+      <module name="irtv_data_process" target="1.8" />
+      <module name="log_data_process" target="1.8" />
+      <module name="paper_data_process" target="1.8" />
+      <module name="pdf_data_process" target="1.8" />
+      <module name="press_data_process" target="1.8" />
+      <module name="storm_data_common" target="1.8" />
+      <module name="storm_kafuka_test" target="1.8" />
+      <module name="tf_data_process" target="1.8" />
+      <module name="web_data_process" target="1.8" />
+      <module name="weibo_data_process" target="1.8" />
+      <module name="weixin_data_process" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

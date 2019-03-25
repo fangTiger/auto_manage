@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app_data_process/app_data_process.iml" filepath="$PROJECT_DIR$/app_data_process/app_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auto_data_process/auto_data_process.iml" filepath="$PROJECT_DIR$/auto_data_process/auto_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auto_manage.iml" filepath="$PROJECT_DIR$/auto_manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbs_data_process/bbs_data_process.iml" filepath="$PROJECT_DIR$/bbs_data_process/bbs_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_process_api/data_process_api.iml" filepath="$PROJECT_DIR$/data_process_api/data_process_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/irtv_data_process/irtv_data_process.iml" filepath="$PROJECT_DIR$/irtv_data_process/irtv_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/log_data_process/log_data_process.iml" filepath="$PROJECT_DIR$/log_data_process/log_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paper_data_process/paper_data_process.iml" filepath="$PROJECT_DIR$/paper_data_process/paper_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdf_data_process/pdf_data_process.iml" filepath="$PROJECT_DIR$/pdf_data_process/pdf_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/press_data_process/press_data_process.iml" filepath="$PROJECT_DIR$/press_data_process/press_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm_data_common/storm_data_common.iml" filepath="$PROJECT_DIR$/storm_data_common/storm_data_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tf_data_process/tf_data_process.iml" filepath="$PROJECT_DIR$/tf_data_process/tf_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_data_process/web_data_process.iml" filepath="$PROJECT_DIR$/web_data_process/web_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weibo_data_process/weibo_data_process.iml" filepath="$PROJECT_DIR$/weibo_data_process/weibo_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixin_data_process/weixin_data_process.iml" filepath="$PROJECT_DIR$/weixin_data_process/weixin_data_process.iml" />
+    </modules>
+  </component>
+</project>

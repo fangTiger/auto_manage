@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="data_process_api:war">
+    <output-path>$PROJECT_DIR$/data_process_api/target</output-path>
+    <root id="archive" name="data_process_api.war">
+      <element id="artifact" artifact-name="data_process_api:war exploded" />
+    </root>
+  </artifact>
+</component>
